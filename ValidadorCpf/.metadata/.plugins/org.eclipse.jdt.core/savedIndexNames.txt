@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\gabri\Documents\Works\Faculdade\5 Periodo\Gestão e Qualidade de software\Terça-Feira\ValidadorCpf\.metadata\.plugins\org.eclipse.jdt.core
+3130980176.index
+1815025119.index
+213327616.index
+4122948177.index
+1865797976.index
+3629693340.index
+364128969.index
